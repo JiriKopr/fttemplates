@@ -1,4 +1,5 @@
 {
     "name": "Flutter Redux store",
-    "openFilesWhenDone": []
+    "openFilesWhenDone": [],
+    "omitParentDirectory": true
 }
