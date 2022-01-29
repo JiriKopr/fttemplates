@@ -8,8 +8,7 @@ import '[FTName | lowercase?snakecase]_store.dart';
 @LazySingleton()
 class [FTName | pascalcase]Epic extends EpicFilteredClass<AppState> {
 
-  [FTName | pascalcase]Epic({
-  });
+  [FTName | pascalcase]Epic();
 
   @override
   Stream mapAction(Stream actions, EpicStore<AppState> store) {
